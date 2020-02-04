@@ -1,0 +1,14 @@
+.tabPanelRoot {
+  margin-left: 500px;
+}
+
+.tabPanelRoot header {
+  background-color: #b0914f;
+}
+.tabPanelText {
+  outline: none !important;
+}
+
+.tabPanelText span {
+  font-weight: bold;
+}
